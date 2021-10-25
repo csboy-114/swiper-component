@@ -1,1 +1,3 @@
 封装原生swiper插件和vue-awesome-swiper插件
+
+移动端rem适配网上教程很多，很繁杂，这里介绍一种简单的配置方法
