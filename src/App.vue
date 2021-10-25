@@ -5,6 +5,9 @@
       <h2>二级内容</h2>
       <h3>三级内容</h3>
     </Panel>
+    <div class="box">
+      rem 适配
+    </div>
   </div>
 </template>
 
@@ -48,5 +51,11 @@ export default {
   h3{
     color: #ccc;
   }
+}
+.box{
+  width: 375px;
+  height: 375px;
+  background-color: skyblue;
+  margin: 0 auto;
 }
 </style>
